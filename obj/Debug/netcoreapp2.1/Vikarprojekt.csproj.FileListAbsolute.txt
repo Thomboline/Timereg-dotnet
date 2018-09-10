@@ -1,0 +1,14 @@
+/home/thomas/Vikarprojekt/bin/Debug/netcoreapp2.1/Vikarprojekt.deps.json
+/home/thomas/Vikarprojekt/bin/Debug/netcoreapp2.1/Vikarprojekt.runtimeconfig.json
+/home/thomas/Vikarprojekt/bin/Debug/netcoreapp2.1/Vikarprojekt.runtimeconfig.dev.json
+/home/thomas/Vikarprojekt/bin/Debug/netcoreapp2.1/Vikarprojekt.dll
+/home/thomas/Vikarprojekt/bin/Debug/netcoreapp2.1/Vikarprojekt.pdb
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.csprojAssemblyReference.cache
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.csproj.CoreCompileInputs.cache
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.RazorAssemblyInfo.cache
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.RazorAssemblyInfo.cs
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.AssemblyInfoInputs.cache
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.AssemblyInfo.cs
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.RazorTargetAssemblyInfo.cache
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.dll
+/home/thomas/Vikarprojekt/obj/Debug/netcoreapp2.1/Vikarprojekt.pdb
